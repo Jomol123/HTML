@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(110, 6, 110);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+footer {
+    background-color: rgb(110, 6, 110);
+    color: pink;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+
+}
+
+.About {
+    background-color: gray;
+    border: 1px solid black;
+    width: 600px;
+    padding: 50px;
+    margin:  0 auto;
+}
+
+.head3 {
+    color: green;
+    text-decoration: underline;
+}
+
+h3 {
+    color: brown;
+}
+body{
+    margin: 0 auto;
+}

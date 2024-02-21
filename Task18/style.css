@@ -1,0 +1,30 @@
+.main{
+    margin: 0 auto; 
+    background-color: skyblue;
+    border-bottom: 6px solid gray;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    width:400px;
+    padding-bottom: 50px;
+   
+    
+}
+.images{
+    margin-top: 20px;
+
+    
+}
+.pargh{
+   margin-top: 10px;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.place{
+   
+    font-weight: bold;
+}
+
+

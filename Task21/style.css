@@ -1,0 +1,98 @@
+/* body {
+    background-image: url(photo/Shanghai-Tower-Gensler-San-Francisco-world-Oriental-2015.webp);
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    width: 400px;
+    height: 300px;
+    background-color: rgba(5, 5, 5, 0.25);
+    justify-content: center;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+}
+.data{
+    width:300px ;
+    height: 25px;
+    margin-top: 20px;
+    display: block;
+}
+.content {  
+    text-align: center;
+   
+}
+.deatils{
+    width: 300px; 
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+.check{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.Login{
+    background-color: blue;
+    margin-top: 30px;
+    width: 300px;
+    height: 25px;
+    text-align: center;
+    border: none;
+}
+.agree{
+    margin-top:30px ;
+}
+ */
+ body {
+    background-image: url(photo/Shanghai-Tower-Gensler-San-Francisco-world-Oriental-2015.webp);
+    background-size: cover;
+    padding: 100px;
+}
+.main {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgba(5, 5, 5, 0.25);
+    border-radius: 10px;
+    padding-top: 20px;
+ 
+    
+}
+h2{
+    text-align: center;
+}
+.data{
+    display: block;
+    margin: 0 auto;
+    width:350px ;
+    height: 25px;
+    
+}
+.agree{
+    width: 340px;
+    margin: 0 auto;
+}
+.check{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+.Login{
+    background-color: blue;
+    color: white;
+    width: 350px;
+    height: 25px;
+    text-align: center;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+
+    
+}
+.log{
+    color: white;
+}

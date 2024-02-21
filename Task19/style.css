@@ -1,0 +1,49 @@
+body {
+    background-image: url(photo/NGC2336-galaxy.en.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+    margin-top: 50px;
+
+}
+
+.head {
+    color: skyblue;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+ 
+    
+}
+
+.ud {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+
+.btn {
+    font-size: 40px;
+    color: skyblue;
+    display: flex;
+    
+    margin-top: 20px;
+    padding:10px 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+   
+
+}
+
+.cover{
+    width: 700px;
+    margin: 0 auto;
+}

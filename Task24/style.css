@@ -1,0 +1,318 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: black;
+}
+
+.first {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.first img {
+    padding: 7px;
+    margin-left: 100px;
+}
+
+.first ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    color: gold;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin: 0 auto;
+    font-size: 20px;
+    /* padding-right: 600px; */
+    border-style: solid;
+    border-color: gold;
+    margin-left: 30px;
+
+}
+
+.bachgr {
+    background-image: url(photo/imgcombine.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: cover;
+    height: 630px;
+
+}
+.date {
+    background-color: gold;
+    border-color: gold;
+    margin: auto;
+    width: 350px;
+    height: 150px;
+    border: 1px solid gold;
+}
+.para {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.bachgr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bachgr h4 {
+    color: white;
+    background-color: black;
+    width: 300px;
+    height: 40px;
+    padding-top: 13px;
+    text-align: center;
+    margin-left: 25px;
+    font-size: 20px;
+}
+.comp2 {
+    background-image: url(photo/combine\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+    margin-top: 40px;
+
+}
+.heading {
+    color: white;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.div1 {
+    border-color: gold;
+    width: 300px;
+    height: 150px;
+    border: 1px solid gold;
+
+
+}
+
+.div1 h1 {
+    background-color: gold;
+
+}
+
+.comp3 {
+    background-image: url(photo/combine\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 780px;
+    margin-top: 50px;
+}
+
+.pargh {
+    margin-top: 20px;
+    padding-left: 950px;
+    padding-top: 100px;
+   
+}
+.offer{
+    color: gold;
+    font-size: 34px;
+    width: 230px;
+}
+.offer1{
+    font-size: 27px;
+    color: gold;
+    padding-right: 100px;
+}
+
+.comp3 button {
+    background-color: gold;
+    font-size: 20px;
+}
+
+.comp3 img {
+    padding-top: 100px;
+}
+
+.comp4 {
+   background-image: url(photo/combine\ 5.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 1200px;
+   margin-top: 50px;
+   
+    
+
+}
+.special{
+    display: flex;
+   justify-content: space-evenly;
+    padding-top: 100px;
+}
+
+
+.month {
+    border-color: gold;
+    width: 650px;
+    height: 100px;
+    border: 1px solid gold;
+    margin-left: 400px;
+}
+
+.head {
+    background-color: gold;
+    margin: 0;
+}
+
+.month p {
+    font-size: 20px;
+    color: white;
+}
+.pa{
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+
+
+.comp5 {
+    background-image: url(photo/Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.data {
+    border-color: gold;
+    margin: auto;
+    width: 250px;
+    height: 120px;
+    border: 5px solid gold;
+    margin-top: 200px;
+
+
+
+}
+
+.data h2 {
+    background-color: gold;
+    margin: 0;
+}
+
+.data p {
+    color: white;
+    text-align: center;
+   
+}
+.comp6{
+    
+        background-image: url(photo/combine\ 4.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 1200px;
+        margin-top: 50px;
+    
+}
+.music{
+    border-color: gold;
+    width: 200px;
+    height: 120px;
+    border: 1px solid gold;
+    margin-left: 400px;
+}
+.music h2{
+    background-color: gold;
+    margin: 0;
+    font-size: 30px;    
+}
+.music p{
+    color: white;
+    font-size: 30px;
+    margin: 0;
+    
+}
+.details{
+    color: white;
+    width: 380px;
+    font-size: 20px;
+    
+}
+.offer3{
+    display: flex;
+      padding-top: 100px;
+}
+.footer {
+    padding-top: 100px;
+}
+.footermain{
+    display: flex;
+}
+
+.footer h1 {
+    color: gold;
+}
+.footermain{
+    display: flex;
+    
+}
+.box{
+    border-color: gold;
+    width: 200px;
+    height: 110px;
+    border: 1px solid gold;
+    margin-left: 400px;
+}
+.box h2{
+ background-color: gold;
+ margin: 0;
+}
+.box p{
+    color: white;
+}
+.footer-contact1{
+    color: white;
+    padding-left: 100px;
+}
+.footer-contact2{
+    color: white; 
+}
+ul{
+    list-style-type: none;
+   
+}
+.footer-contact3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-contact{
+    color: white;
+    font-size: 25px;
+}
+
+.footer-icon{
+    color: white;
+    padding-top: 30px;
+
+}
+.icon1{
+    color: gold;
+    font-size: 20px;
+}
+.house{
+    color: gold;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

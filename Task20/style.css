@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to right, blue, blueviolet);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 195px ;
+    
+}
+
+.wrd {
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+.wrd1 {
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+
+.icons {
+ text-align: center;
+}
+
+.icon1 {
+    background-color: white;
+    color: blue;
+    font-size: 50px;
+    border-radius: 100px;
+    border: 10px solid whitesmoke;
+}
